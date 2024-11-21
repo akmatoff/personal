@@ -1,0 +1,13 @@
+#header #logo {
+    background-size: 100% 100%;
+    width: 80px;
+    height: 80px;
+}
+
+#header #nav ul a {
+    color: black;
+}
+
+.content .h1 a {
+    color: black;
+}
