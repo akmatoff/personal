@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://akmatoff.com/</loc>
     <lastmod>2024-11-20T03:42:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://akmatoff.com/categories/</loc>
     <lastmod>2024-11-20T03:42:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://akmatoff.com/posts/hello-world/</loc>
     <lastmod>2024-11-20T03:42:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/life/</loc>
+    <loc>https://akmatoff.com/categories/life/</loc>
     <lastmod>2024-11-20T03:42:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://akmatoff.com/posts/</loc>
     <lastmod>2024-11-20T03:42:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://akmatoff.com/about/</loc>
     <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://akmatoff.com/tags/</loc>
   </url>
 </urlset>

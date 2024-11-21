@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azim Akmatov</title>
-    <link>http://localhost:1313/</link>
+    <link>https://akmatoff.com/</link>
     <description>Recent content on Azim Akmatov</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Azim Akmatov</copyright>
     <lastBuildDate>Wed, 20 Nov 2024 03:42:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akmatoff.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://akmatoff.com/posts/hello-world/</link>
       <pubDate>Wed, 20 Nov 2024 03:42:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello World&#xA;sdfsdf&lt;/p&gt;</description>
+      <guid>https://akmatoff.com/posts/hello-world/</guid>
+      <description></description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://akmatoff.com/about/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://akmatoff.com/about/</guid>
       <description>&lt;p&gt;Hello, I&amp;rsquo;m Azim, a web-developer based in Kyrgyzstan.&lt;/p&gt;&#xA;&lt;p&gt;With over 2 years of experience in web development, I specialize in React and Next.js.&lt;/p&gt;&#xA;&lt;p&gt;I have been studying programming since 2018, before I went to&#xA;college. By that time, I had started learning JavaScript, having&#xA;previously learned HTML and CSS. I realized I needed JavaScript to&#xA;advance, but I initially found it quite difficult to understand.&#xA;My understanding of programming improved later when I studied&#xA;Python at college.&lt;/p&gt;</description>
     </item>
   </channel>
